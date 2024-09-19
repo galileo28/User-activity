@@ -1,0 +1,15 @@
+{
+  "name": "user-activity",
+  "version": "1.0.0",
+  "description": "Build a simple CLI tool that fetches and displays recent GitHub user activity. Practice working with APIs, handling JSON data, and building a functional command-line application.",
+  "main": "bin/index.js",
+  "bin": {
+    "user-activity": "./bin/index.js" 
+  },
+  "scripts": {
+      "start": "node bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
