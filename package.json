@@ -4,7 +4,7 @@
   "description": "Build a simple CLI tool that fetches and displays recent GitHub user activity. Practice working with APIs, handling JSON data, and building a functional command-line application.",
   "main": "bin/index.js",
   "bin": {
-    "user-activity": "./bin/index.js" 
+    "github-activity": "./bin/index.js"
   },
   "scripts": {
       "start": "node bin/index.js"
